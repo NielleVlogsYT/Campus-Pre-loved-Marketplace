@@ -10,7 +10,7 @@ Team:
 - Name: Chrystel Anzel Cunanan | Github: chryztel12-rgb | Role: QA / Scrum Master
 - Name: Pauljohn Adriano | Github: Pauljohn-12 | Role: Front-end developer
 - Name: Kalvin Vishnu Negapatan | Github: vishnaur | Role: Backend Developer
-- Name: John Exequiel Pascual | Github: | Role: Front-end Developer/ QA
+- Name: John Exequiel Pascual | Github: JIEX-X| Role: Front-end Developer/ QA
 
 ## Setup
 
