@@ -1,0 +1,25 @@
+{
+  "name": "campus-pre-loved-marketplace",
+  "version": "1.0.0",
+  "description": "Campus Pre-loved Marketplace is a space where students can buy and sell their goods.\r #TEAM\r Team:    \r  -Name: Jhon Denielle Icawalo   | Github: NielleVlogsYT   | Role: Product Owner\r  -Name: Chrystel Anzel Cunanan  | Github: chryztel12-rgb  | Role: QA / Scrum Master\r  -Name: Pauljohn Adriano        | Github: Pauljohn-12     | Role: Front-end developer\r  -Name: Kalvin Vishnu Negapatan | Github: vishnaur        | Role: Backend Developer\r  -Name: John Exequiel Pascual   | Github:                 | Role: Front-end Developer/   QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NielleVlogsYT/Campus-Pre-loved-Marketplace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NielleVlogsYT/Campus-Pre-loved-Marketplace/issues"
+  },
+  "homepage": "https://github.com/NielleVlogsYT/Campus-Pre-loved-Marketplace#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
